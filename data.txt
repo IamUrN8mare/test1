@@ -1,0 +1,2 @@
+Name1: https://example.com
+Name2: https://example2.com
